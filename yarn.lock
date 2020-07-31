@@ -5928,10 +5928,10 @@ react-is@^16.12.0, react-is@^16.8.1, react-is@^16.8.4, react-is@^16.9.0:
   resolved "https://registry.yarnpkg.com/react-is/-/react-is-16.13.1.tgz#789729a4dc36de2999dc156dd6c1d9c18cea56a4"
   integrity sha512-24e6ynE2H+OKt4kqsOvNd8kBpV65zoxbA4BVsEOB3ARVWQki/DHzaUoC5KuON/BiccDaCCTZBuOcfZs70kR8bQ==
 
-react-native-game-engine@1.1.1:
-  version "1.1.1"
-  resolved "https://registry.yarnpkg.com/react-native-game-engine/-/react-native-game-engine-1.1.1.tgz#5fab5637d3fbc3dc72fcccf0414e20240344ffff"
-  integrity sha512-di4swaIxt1o/zJZuJ068Y7eoCTF9GME3Mc6S5OVFUP6sLKzy4bcsE9eIQOqhCIkxoVbYk3j8mapBShokOdY6HA==
+react-native-game-engine@1.2.0:
+  version "1.2.0"
+  resolved "https://registry.yarnpkg.com/react-native-game-engine/-/react-native-game-engine-1.2.0.tgz#a1a049cf9ab9a60607618cafcef8648429f4a817"
+  integrity sha512-SZwvxh0qN5HxuREL733B2VrtsadoSiN0RxulGaJu8OC3LTeliQM7whGQREtoBLo2tQ9iIzyzhiMSTzLCvmEJWg==
   dependencies:
     rxjs "^6.2.2"
 
