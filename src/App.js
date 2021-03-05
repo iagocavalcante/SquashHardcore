@@ -30,11 +30,11 @@ const App = () => {
     }
 
     Matter.World.add(world, [samuca, ball]);
-    // Events.on(engine, 'collisionStart', (event) => {
-    //   var pairs = event.pairs;
-    //   console.log(pairs)
-    //   gameEngine.dispatch({ type: "game-over"});         
-    // });
+    Events.on(engine, 'collisionStart', (event) => {
+      // var pairs = event.pairs;
+      console.log(event)
+      // gameEngine.dispatch({ type: "game-over"});         
+    });
 
     return {
       physics: { engine: engine, world: world },
