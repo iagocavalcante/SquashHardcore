@@ -8,9 +8,9 @@
     "test": "jest"
   },
   "dependencies": {
-    "expo": "37.0.12",
-    "expo-splash-screen": "0.2.3",
-    "expo-updates": "0.2.7",
+    "expo": "57.0.20",
+    "expo-splash-screen": "57.0.8",
+    "expo-updates": "57.0.21",
     "matter-js": "0.14.2",
     "react": "16.9.0",
     "react-dom": "16.9.0",
